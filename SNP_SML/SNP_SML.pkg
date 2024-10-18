@@ -1,5 +1,17 @@
-d 'DEA': Data envelopment analysis
+d 'SNP_SML': SNP and SML estimation of univariate and bivariate binary-choice models Use snp and sml With STATA 18
 d
-f dea.ado
-f dea.sthlp
-f coelli_table6.4.dta
+f dropping.ado
+f gaukern.ado
+f gaukern_biv.ado
+f sml.ado
+f sml.hlp
+f sml2s.ado
+f sml2s_ll.ado
+f sml_ll.ado
+f snp.ado
+f snp.hlp
+f snp2.ado
+f snp2_ll.ado
+f snp2s.ado
+f snp2s_ll.ado
+f snp_ll.ado
