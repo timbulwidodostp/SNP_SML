@@ -1,6 +1,8 @@
 # SNP_SML
 SNP and SML estimation of univariate and bivariate binary-choice models Use snp and sml With STATA 18
 
+https://www.youtube.com/watch?v=292YQIUfvVY
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
